@@ -1,4 +1,14 @@
 <?php
+
+asdlfhaslfdhasldf
+
+asdfasd
+fas
+df
+sadf
+asd
+fsad
+
 include 'D:\\works\\system\\application.php';
 $app = new system\Application('website');
 $app->addGateway('application\\lib\\helper','D:\\works\\');
